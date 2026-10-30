@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Basil Meer</h1>
+<h1 style="margin-top: 0">Basil Meer</h1>
 
 <p><b>Full-stack engineer</b> · Rails, React, Go · Lahore, PK</p>
 
