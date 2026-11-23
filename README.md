@@ -28,38 +28,50 @@ Previously co-ran [Esseal](https://www.esseal.co.uk), a small dev agency, and le
 <table>
   <tr>
     <td width="50%" valign="top">
+      <b><a href="https://usetallio.com">Tallio</a></b><br/>
+      <sub>AI stock control for UK hardware and trade shops. Photograph a supplier invoice and a self-hosted Qwen2.5-VL model reads each line into stock, flagging mismatches. In free early access.</sub><br/>
+      <code>Rails</code> <code>Go</code> <code>React</code> <code>PostgreSQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://getslater.co.uk">Slater</a></b><br/>
+      <sub>A free, VAT-ready invoice maker for UK trades. Send invoices, keep client records and track payments, on the web or from your phone.</sub><br/>
+      <code>Rails</code> <code>React</code> <code>TypeScript</code> <code>React Native</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://gymregime.io">GymRegime</a></b><br/>
+      <sub>Build and track workout routines in the browser, with muscle-group mapping and curated exercise picks.</sub><br/>
+      <code>React</code> <code>Material UI</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://www.curbsidehealth.online">Curbside Health</a></b><br/>
+      <sub>Clinical pathways platform that turns static medical guidelines into interactive decision support inside the EHR.</sub><br/>
+      <code>Rails</code> <code>React</code> <code>GraphQL</code> <code>PostgreSQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <b><a href="https://helios.nova.basilmeer.com">Helios</a></b><br/>
       <sub>Solar inverter monitoring with live Modbus TCP telemetry. Sends WhatsApp alerts on grid outages, restoration and high load.</sub><br/>
       <code>Rails</code> <code>React</code> <code>TypeScript</code> <code>Modbus</code>
     </td>
     <td width="50%" valign="top">
-      <b>SnapStock</b><br/>
-      <sub>Turns photos of invoices and delivery notes into reviewable stock updates using Qwen2.5-VL, with live progress over WebSockets.</sub><br/>
-      <code>Rails</code> <code>Go</code> <code>React</code> <code>PostgreSQL</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://groundsignal.nova.basilmeer.com">GroundSignal</a></b><br/>
+      <b><a href="https://groundsignal.projects.basilmeer.com">GroundSignal</a></b><br/>
       <sub>Multi-tenant operations platform for work spread across many sites. Map-based planning, role-based access, auditable job history.</sub><br/>
       <code>Multi-tenant</code> <code>Maps</code> <code>RBAC</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <b><a href="https://theoverwatch.ai">Overwatch</a></b><br/>
       <sub>Project and resource planning for people, equipment and subcontractors, with conflict tracking and reporting.</sub><br/>
       <code>Scheduling</code> <code>AI</code> <code>RBAC</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <b><a href="https://mockingbird.nova.basilmeer.com">Mockingbird</a></b><br/>
       <sub>Realistic, repeatable mock data for QA, prototypes and demos, served over REST and GraphQL.</sub><br/>
       <code>REST</code> <code>GraphQL</code>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://slateinvoice.nova.basilmeer.com">SlateInvoice</a></b><br/>
-      <sub>Invoicing from draft to paid: clients, payments and business profiles in one place.</sub><br/>
-      <code>Rails</code> <code>React</code>
     </td>
   </tr>
 </table>
